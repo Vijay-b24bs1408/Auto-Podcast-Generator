@@ -1,7 +1,5 @@
 Welcome to your Lovable project
 # Auto Podcast Generator
-
-This project was built with [Lovable](https://lovable.dev).
 A minimal, cute podcast generator that turns any topic into an audio podcast episode.
 
 ## Build with Lovable
